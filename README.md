@@ -51,6 +51,7 @@ Git & GitHub
 Postman (for API testing)
 
 🗂️ Project Structure
+
 ProductApp
  └── src
      └── main
