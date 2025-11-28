@@ -21,8 +21,8 @@ public class PersistenceConfig {
 		DriverManagerDataSource driver=new DriverManagerDataSource();
 		driver.setDriverClassName("com.mysql.cj.jdbc.Driver");
 		driver.setUrl("jdbc:mysql://localhost:3306/productapp");
-		driver.setUsername("root");
-		driver.setPassword("Priya@2025");
+		driver.setUsername("username");
+		driver.setPassword("password");
 		return driver;
 	}
 	
